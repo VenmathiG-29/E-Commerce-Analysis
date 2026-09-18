@@ -64,4 +64,5 @@ This dashboard focuses on a more detailed analysis of net profit.
 
 ## Conclusion
 This project showcases the use of SQL, Excel, and Power BI to analyze and visualize e-commerce data effectively. The insights derived can help in making informed business decisions.
+This section demonstrates a GitHub pull request workflow.
 
