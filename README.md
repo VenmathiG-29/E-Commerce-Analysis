@@ -52,7 +52,7 @@ This dashboard focuses on a more detailed analysis of net profit.
 - **Table**: Shows a sales overview with columns such as Order Year, Order Month, Sales Value, Sales Value MoM%, and Sales Value YTD.
 - **Toggle Buttons**: Switch between the two dashboards.
 
-## How to Run the Project
+## How to Run the Project (E-commerce)
 1. **Database Setup**: Ensure you have access to the e-commerce database and the necessary permissions to run SQL queries.
 2. **Run SQL Queries**: Execute the provided SQL queries to extract the data needed for analysis.
 3. **Excel Analysis**: Import the SQL query results into Excel and create the pivot charts.
